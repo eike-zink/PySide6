@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+    <book id="bk001">
+        <author>Autor</author>
+        <title>Titel</title>
+        <genre>Test</genre>
+        <price>0.00</price>
+        <publish_date>2024-11-02</publish_date>
+        <description>Testdaten</description>
+    </book>
+    <book id="bk002">
+        <author>Autor</author>
+        <title>Titel</title>
+        <genre>Test</genre>
+        <price>0.00</price>
+        <publish_date>2024-11-02</publish_date>
+        <description>Testdaten</description>
+    </book>
+    <book id="bk003">
+        <author>Autor</author>
+        <title>Titel</title>
+        <genre>Test</genre>
+        <price>0.00</price>
+        <publish_date>2024-11-02</publish_date>
+        <description>Testdaten</description>
+    </book>
+    <book id="bk004">
+        <author>Autor</author>
+        <title>Titel</title>
+        <genre>Test</genre>
+        <price>0.00</price>
+        <publish_date>2024-11-02</publish_date>
+        <description>Testdaten</description>
+    </book>
+    <book id="bk005">
+        <author>Autor</author>
+        <title>Titel</title>
+        <genre>Test</genre>
+        <price>0.00</price>
+        <publish_date>2024-11-02</publish_date>
+        <description>Testdaten</description>
+    </book>
+    <book id="bk006">
+        <author>Autor</author>
+        <title>Titel</title>
+        <genre>Test</genre>
+        <price>0.00</price>
+        <publish_date>2024-11-02</publish_date>
+        <description>Testdaten</description>
+    </book>
+    <book id="bk007">
+        <author>Autor</author>
+        <title>Titel</title>
+        <genre>Test</genre>
+        <price>0.00</price>
+        <publish_date>2024-11-02</publish_date>
+        <description>Testdaten</description>
+    </book>
+    <book id="bk008">
+        <author>Autor</author>
+        <title>Titel</title>
+        <genre>Test</genre>
+        <price>0.00</price>
+        <publish_date>2024-11-02</publish_date>
+        <description>Testdaten</description>
+    </book>
+    <book id="bk009">
+        <author>Autor</author>
+        <title>Titel</title>
+        <genre>Test</genre>
+        <price>0.00</price>
+        <publish_date>2024-11-02</publish_date>
+        <description>Testdaten</description>
+    </book>
+        <book id="bk010">
+        <author>Autor</author>
+        <title>Titel</title>
+        <genre>Test</genre>
+        <price>0.00</price>
+        <publish_date>2024-11-02</publish_date>
+        <description>Testdaten</description>
+    </book>
+</catalog>
