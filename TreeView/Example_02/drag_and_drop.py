@@ -9,7 +9,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
         self.model = QtGui.QStandardItemModel()
 
-        for k in range(0, 4):
+        for k in range(0, 40):
             parent_item = self.model.invisibleRootItem()
             for i in range(0, 4):
                 item = QtGui.QStandardItem(str(f'Item {k}.{i}'))
