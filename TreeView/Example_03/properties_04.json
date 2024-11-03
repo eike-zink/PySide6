@@ -1,0 +1,26 @@
+{
+    "Gruppe 1": [
+        {
+            "name": "Eigenschaft 1",
+            "type": "text",
+            "value": "Wert 1"
+        },
+        {
+            "name": "Eigenschaft 2",
+            "type": "checkbox",
+            "value": true
+        }
+    ],
+    "Gruppe 2": [
+        {
+            "name": "Eigenschaft 3",
+            "type": "text",
+            "value": "Wert 2"
+        },
+        {
+            "name": "Eigenschaft 4",
+            "type": "checkbox",
+            "value": false
+        }
+    ]
+}
